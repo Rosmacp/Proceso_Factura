@@ -2,10 +2,10 @@ import os
 import tabula
 from openpyxl import Workbook
 
-input_folder = 'C:\\Users\\rcastellanos\\OneDrive - Nacion Servicios S.A\\Facturaciòn S1'
-output_folder = 'C:\\Users\\rcastellanos\\OneDrive - Nacion Servicios S.A\\Facturaciòn S1\\Facturas en Excel'
-input_file_name = 'FCE - S1 06052014.pdf'
-output_file_name = 'FCE - S1 06052014.xlsx'
+input_folder = 
+output_folder = 
+input_file_name = 
+output_file_name = 
 
 input_file_path = os.path.join(input_folder, input_file_name)
 output_file_path = os.path.join(output_folder, output_file_name)
